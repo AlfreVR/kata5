@@ -37,7 +37,7 @@ public class FactorialCommand implements Command{
 
     @Override
     public Output execute(Input input) {
-        return null;
+        return factorial(input.get("number"));
     }
 
 

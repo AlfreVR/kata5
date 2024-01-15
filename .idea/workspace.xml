@@ -4,14 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eae3a386-d9b3-4b5d-96e2-6ca50677567e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata5/Command.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata5/FactorialCommand.java" afterDir="false" />
+    <list default="true" id="eae3a386-d9b3-4b5d-96e2-6ca50677567e" name="Changes" comment="Added new Clas SparkCommandExecutor">
+      <change afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata5/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata5/FactorialCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata5/FactorialCommand.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +50,39 @@
       <option name="presentableId" value="Default" />
       <updated>1705325401706</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added new Class FactorialCommand with new interface Command&#10;Added new dependency called spark-core in pom.xml">
+      <option name="closed" value="true" />
+      <created>1705326284232</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1705326284232</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added new Clas SparkCommandExecutor">
+      <option name="closed" value="true" />
+      <created>1705326719220</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1705326719220</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added new Class FactorialCommand with new interface Command&#10;Added new dependency called spark-core in pom.xml" />
+    <MESSAGE value="Added new Clas SparkCommandExecutor" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added new Clas SparkCommandExecutor" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/software/ulpgc/kata5/Main.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
